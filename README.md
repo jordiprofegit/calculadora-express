@@ -1,2 +1,2 @@
 # calculadora-express
-calculada feta amb express
+calculadora feta amb express
